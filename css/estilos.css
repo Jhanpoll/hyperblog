@@ -45,6 +45,17 @@ body
 }
 #post
 {
+<<<<<<< HEAD
     background: white;
+=======
+    p
+>>>>>>> 38b1560d8d14aaaafed044e0ae635d4d7590e5b7
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
 }
